@@ -13,7 +13,7 @@ pinned: false
 </p>
 
 
-## <h1 align="center" id="heading">:wave: Welcome to Beyond ChatGPT!!</h1>
+## <h1 align="center" id="heading">:wave: Welcome to My First LLM APP!!</h1>
 
 For a step-by-step YouTube video walkthrough, watch this! 
 
